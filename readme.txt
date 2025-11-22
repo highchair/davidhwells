@@ -1,9 +1,11 @@
-#David H Wells
-###A custom photography portfolio WordPress theme
+David H Wells
+=============
+
+## A custom photography portfolio WordPress theme
 
 Design and programming by J. Hogue @ Highchair designhaus
 
-##Built with SASS
+## Built with SASS
 
 Watch command: 
 ```sh
